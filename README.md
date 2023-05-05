@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer & Sound Editor
 ----------------------------------
 
-After working in the film industry for almost a decade I have decided to take the plunge and get into the world of tech! I am currently enrolled on the School of Code Bootcamp being put through my paces learning about all aspects of coding and software development and agile team frameworks. At the moment I am focused on making the most of this incredible opportunity, I love collaborative working and problem-solving and I am looking forward to launching myself into a new career in Front End Development.
+After working in the film industry for almost a decade I have decided to take the plunge and get into the world of tech! I am currently enrolled on the School of Code Bootcamp being put through my paces learning about all aspects of coding and software development and agile team frameworks. At the moment I am focused on making the most of this incredible opportunity. I love collaborative working and problem-solving and I am looking forward to launching myself into a new career in Front End Development.
 
 * 🌍  I'm based in Bristol
 * 🖥️  See my portfolio at [my Portfolio](http://www.benhensordevTBC.com)
