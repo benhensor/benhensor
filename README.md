@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ben and welcome to my GitHub!
 ===========================================================================================================================
 
-Front End Developer & Sound Editor
+Full Stack Developer & Sound Editor
 ----------------------------------
 
 After working in the film industry for almost a decade I have decided to take the plunge and get into the world of tech! I am currently enrolled on the School of Code Bootcamp being put through my paces learning about all aspects of coding and software development and agile team frameworks. At the moment I am focused on making the most of this incredible opportunity, I love collaborative working and problem-solving and I am looking forward to launching myself into a new career in Front End Development.
