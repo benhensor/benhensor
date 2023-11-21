@@ -9,16 +9,16 @@ After working in the film industry for almost a decade I decided to take the plu
 👀 I am looking for a role as a full stack developer, where I can bring my skills in design and development to a new team. 
 
 * 🌍  I'm based in Bristol
-* 
+  
 * 🖥️  See my portfolio here [benhensordev](https://benhensordev.netlify.app/)
-* 
+  
 * ✉️  You can contact me at [benhensor@gmail.com](mailto:benhensor@gmail.com)
-* 
+  
 * 🚀  at the moment I am designing an app I am going to build for my wife to help her plan her gardening activities. The intention is to pick some some new skills along the way.
 The stack will be a TypeScript React Frontend, with a NodeJS and Express server and using a relational db, probably MongoDb. I may swap these out for new frameworks.
-* 
+  
 * 🧠  I'm learning React
-* 
+  
 * 🤝  I'm open to collaborating on Interesting original projects
 
 <a href="https://www.github.com/benhensor" target="_blank" rel="noreferrer"><img
