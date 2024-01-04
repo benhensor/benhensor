@@ -15,7 +15,7 @@ After working in the film industry for almost a decade I decided to take the plu
 * ✉️  You can contact me at [benhensor@gmail.com](mailto:benhensor@gmail.com)
   
 * 🚀  at the moment I am designing an app I am going to build for my wife to help her plan her gardening activities. The intention is to pick some some new skills along the way.
-The stack will be a TypeScript React Frontend, with a NodeJS and Express server and using a relational db, probably MongoDb. I may swap these out for new frameworks.
+The stack will be a TypeScript React Frontend, with a NodeJS and Express server, using a relational postgreSQL database. I may swap these out for new frameworks.
   
 * 🧠  I'm learning React
   
