@@ -10,7 +10,7 @@ After working in the film industry for almost a decade I decided to take the plu
 
 * 🌍  I'm based in Bristol
   
-* 🖥️  See my portfolio here [benhensordev](https://benhensordev.netlify.app/)
+* 🖥️  See my portfolio here [benhensordev](https://benhensor.co.uk)
   
 * ✉️  You can contact me at [benhensor@gmail.com](mailto:benhensor@gmail.com)
   
