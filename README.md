@@ -4,7 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer and cat fanatic! 😻
 ----------------------------------
 
-After working in the film industry for almost a decade I decided to take the plunge and get into the world of tech! In early 2023 I completed a full stack software development bootcamp with the School of Code and launched my new career by successfully landing my first role as a Full Stack Developer with a start up. Now moving on and looking for my next challenge I am continuing my journey of personal growth and hunting for my next position. 
+From Sound design to sound Design! 
+
+Award-winning Sound Editor turned Full Stack Developer. After 14 years of creating immersive experiences for audiences through film-making, I have hung up my headphones to bring my love of design and high-end craft to the world of web development. 
+
+A designer at heart, bringing together creative vision and technical expertise to find inventive solutions to complex challenges. Whether designing compelling UI systems or building new application features, I keep the end-user at the heart of my process. Software Development brings together all of my creativity and problem solving and I am driven to continue learning and growing as a developer. 
 
 👀 I am looking for a role as a full stack developer, where I can bring my skills in design and development to a new team. 
 
@@ -14,8 +18,7 @@ After working in the film industry for almost a decade I decided to take the plu
   
 * ✉️  You can contact me at [benhensor@gmail.com](mailto:benhensor@gmail.com)
   
-* 🚀  at the moment I am designing an app I am going to build for my wife to help her plan her gardening activities. The intention is to pick some some new skills along the way.
-The stack will be a TypeScript React Frontend, with a NodeJS and Express server, using a relational postgreSQL database. I may swap these out for new frameworks.
+* 🚀  at the moment I am designing an app I am going to build for my wife to help her plan her gardening activities. The intention is to pick up some some new skills along the way.
   
 * 🧠  I'm learning TypeScript and Angular
   
