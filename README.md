@@ -14,11 +14,11 @@ A designer at heart, bringing together creative vision and technical expertise t
 
 * 🌍  I'm based in Bristol
   
-* 🖥️  See my portfolio here [benhensordev](https://benhensor.co.uk)
+* 🖥️  See my portfolio [here](https://benhensor.co.uk)
   
 * ✉️  You can contact me at [benhensor@gmail.com](mailto:benhensor@gmail.com)
   
-* 🚀  at the moment I am designing an app I am going to build for my wife to help her plan her gardening activities. The intention is to pick up some some new skills along the way.
+* 🚀  at the moment I am designing an app for my wife to help her plan her gardening activities. The intention is to pick up some some new skills along the way.
   
 * 🧠  I'm learning TypeScript and Angular
   
