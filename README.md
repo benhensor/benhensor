@@ -14,7 +14,7 @@ A designer at heart, bringing together creative vision and technical expertise t
 
 * 🌍  I'm based in Bristol
   
-* 🖥️  See my portfolio [here](https://benhensor.co.uk)
+* 🖥️  See my [PORTFOLIO](https://benhensor.co.uk)
   
 * ✉️  You can contact me at [benhensor@gmail.com](mailto:benhensor@gmail.com)
   
