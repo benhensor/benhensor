@@ -10,17 +10,15 @@ Award-winning Sound Editor turned Full Stack Developer. After 14 years of creati
 
 A designer at heart, bringing together creative vision and technical expertise to find inventive solutions to complex challenges. Whether designing compelling UI systems or building new application features, I keep the end-user at the heart of my process. Software Development brings together all of my creativity and problem solving and I am driven to continue learning and growing as a developer. 
 
-👀 I am looking for a role as a full stack developer, where I can bring my skills in design and development to a new team. 
-
 * 🌍  I'm based in Bristol
   
 * 🖥️  See my [PORTFOLIO](https://benhensor.co.uk)
   
 * ✉️  You can contact me at [benhensor@gmail.com](mailto:benhensor@gmail.com)
   
-* 🚀  at the moment I am designing an app for my wife to help her plan her gardening activities. The intention is to pick up some some new skills along the way.
+* 🚀  I am currently the in-house Web & App Developer at LUV Infinity Group.
   
-* 🧠  I'm learning TypeScript and Angular
+* 🧠  My current stack is Next JS, TypeScript & Tailwind CSS.
   
 * 🤝  I'm open to collaborating on Interesting original projects
 
